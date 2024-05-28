@@ -9,7 +9,7 @@
 7. What´s Event Bubbling? [Answer](https://youtu.be/Y4vYFPy1MjI)  
 8. What´s Event Capturing? [Answer](https://youtu.be/kXrXO1HC0hE)  
 9. What´is the difference between event.preventDefault() and event.stopPropagation() method? [Answer](https://youtu.be/Dqg0Hr9UyLc)  
-10. How to know if the event.preventDefault() method was used in a element?   
+10. How to know if the event.preventDefault() method was used in a element? [Answer](https://youtu.be/FSn9KuNry6w) 
 11. Why does this code ob.someprop.x throw an error?   
 12. What is event.target? [Answer](https://youtu.be/om-gKzg9H7w)  
 13. What is event.currentTarget? [Answer](https://youtu.be/S69JasC1VqQ)  
