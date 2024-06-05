@@ -41,3 +41,10 @@
 39. Why does b in this code become a global variable when you call this function?  
 40. What is ECMAScript? [Answer](https://youtu.be/sFfZxDKS5_s)
 41. What are the new features in ES6 or ECMAScript 2015? [Answer](https://youtu.be/q4x_Ih8F7JU)
+42. What´s the difference between var, let and const keywords? [Answer](https://youtu.be/kI4sx_7h-AU)
+43. What are Arrow Functions? [Answer](https://youtu.be/vSaDo_6Y9EU)
+44. What are Classes? [Answer](https://youtu.be/CGQw6KVmC0w)
+45. What are Template Literal? [Answer](https://youtu.be/HSi59Vbcgck)
+46. What is Object Destructuring? [Answer](https://youtu.be/dTZk9yv2Bp0)
+47. What are ES6 Modules? [Answer](https://youtu.be/CkXs9R9JMbA)
+48. What is the Set object and how does it work? [Answer](https://youtu.be/0rHYrnDCMsc)
