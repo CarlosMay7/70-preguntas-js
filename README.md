@@ -48,3 +48,7 @@
 46. What is Object Destructuring? [Answer](https://youtu.be/dTZk9yv2Bp0)
 47. What are ES6 Modules? [Answer](https://youtu.be/CkXs9R9JMbA)
 48. What is the Set object and how does it work? [Answer](https://youtu.be/0rHYrnDCMsc)
+49.  What is a Callback function? [Answer](https://youtu.be/8KVT2aViRdQ)
+50.  What are Promises? [Answer](https://youtu.be/flCHV-zZGsY)
+51.  What´s the diferrence between Spread Operator and Rest Operator? [Answer](https://youtu.be/DPcytjW763c)
+52.  What is async/await and How does it work? [Answer](https://youtu.be/go_98w1k_IU)
