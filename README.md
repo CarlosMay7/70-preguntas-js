@@ -52,3 +52,5 @@
 50.  What are Promises? [Answer](https://youtu.be/flCHV-zZGsY)
 51.  What´s the diferrence between Spread Operator and Rest Operator? [Answer](https://youtu.be/DPcytjW763c)
 52.  What is async/await and How does it work? [Answer](https://youtu.be/go_98w1k_IU)
+53.  what are default parameters? [Answer](https://youtu.be/lwtSn8cXHMI)
+54.  What are wrapper objects? [Answer](https://youtu.be/VvJbI19r8aM)
