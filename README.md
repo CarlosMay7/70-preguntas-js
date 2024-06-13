@@ -61,3 +61,12 @@
 59.  How to check if a certain property exists in an object? [Answer](https://youtu.be/5Ln1pqJmONA)
 60.  What is AJAX? [Answer](https://youtu.be/ZQcEQWmNj04)
 61.  What are the ways of making objects in JavaScript? [Answer](https://youtu.be/nJDHk3VNB8Y)
+62.  What´s the difference between Object.seal and Object.freeze methods? [Answer](https://youtu.be/NVZA9A6Zayw)
+63.  what´s the difference between the in operator and and the hasOwnProperty method in objects? [Answer](https://youtu.be/CWwLSfLaEP0)
+64.  What are the ways to deal with Asynchronous Code in JavaScript? [Answer](https://youtu.be/Jn1fyGNZNG0)
+65.  What´s the difference between a function expression and functions declaration? [Answer](https://youtu.be/iDVBhU0DWp8)
+66.  How many ways can function be invoked? [Answer](https://youtu.be/W0RlM6Z2Fc4)
+67.  What is memoization and what´s the use it? [Answer](https://youtu.be/id31bz0alJY)
+68.  Implement a memoization helper function Answer
+69.  Why does typeof null return object? How to check if a value is null? Answer
+70.  What does the new keyword do? Answer
