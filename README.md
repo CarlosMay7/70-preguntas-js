@@ -10,7 +10,7 @@
 8. What´s Event Capturing? [Answer](https://youtu.be/kXrXO1HC0hE)  
 9. What´is the difference between event.preventDefault() and event.stopPropagation() method? [Answer](https://youtu.be/Dqg0Hr9UyLc)  
 10. How to know if the event.preventDefault() method was used in a element? [Answer](https://youtu.be/FSn9KuNry6w) 
-11. Why does this code ob.someprop.x throw an error?   
+11. Why does this code ob.someprop.x throw an error? [Answer](https://youtu.be/nsC0ryYDp3c)
 12. What is event.target? [Answer](https://youtu.be/om-gKzg9H7w)  
 13. What is event.currentTarget? [Answer](https://youtu.be/S69JasC1VqQ)  
 14. What´s the difference between == and ===? [Answer](https://youtu.be/pfKPlHzWHcQ)  
@@ -38,7 +38,7 @@
 36. Implement the Array.prototype.reduce method by hand [Answer](https://youtu.be/wKsR1dtWMu4)
 37. What is the arguments object? [Answer](https://youtu.be/SlOErfSw9Ck)
 38. How to create an object without a prototype? [Answer](https://youtu.be/sKycLqyHeJs)
-39. Why does b in this code become a global variable when you call this function?  
+39. Why does b in this code become a global variable when you call this function? [Answer](https://youtu.be/O_1j1aO_Hws)
 40. What is ECMAScript? [Answer](https://youtu.be/sFfZxDKS5_s)
 41. What are the new features in ES6 or ECMAScript 2015? [Answer](https://youtu.be/q4x_Ih8F7JU)
 42. What´s the difference between var, let and const keywords? [Answer](https://youtu.be/kI4sx_7h-AU)
@@ -67,6 +67,6 @@
 65.  What´s the difference between a function expression and functions declaration? [Answer](https://youtu.be/iDVBhU0DWp8)
 66.  How many ways can function be invoked? [Answer](https://youtu.be/W0RlM6Z2Fc4)
 67.  What is memoization and what´s the use it? [Answer](https://youtu.be/id31bz0alJY)
-68.  Implement a memoization helper function Answer
-69.  Why does typeof null return object? How to check if a value is null? Answer
-70.  What does the new keyword do? Answer
+68.  Implement a memoization helper function [Answer](https://youtu.be/qHeGeoS4z0g)
+69.  Why does typeof null return object? How to check if a value is null? [Answer](https://youtu.be/zeKd7bJo15I)
+70.  What does the new keyword do? [Answer](https://youtu.be/TU8BfNxBi8c)
